@@ -1,0 +1,81 @@
+概念：
+	
+
+	Skill定义范畴
+	Agent 定义范畴
+
+	Python重要！！！！！！！！！！！！！！！！
+	LangChain LiamaIndex 应用框架，挺重要
+
+	CUDA tensor 大致概念
+	
+	RAG 流程优化	
+
+	MCP Model Context Protocol
+	MCP Client ---------------模型（AI）端 
+	MCP Server --------------服务端（与目标服务部署在一起）
+	两者定义了AI 如何执行命令 让AI安全地调用外部工具， 并通过配置限制AI的功能，如数据库防止删库
+
+	API Flow
+	
+	Vibe（氛围，感觉） Coding
+	和AI交互的过程中完成各种任务，让AI执行 模糊，写意 的指令
+
+	什么是ASCII码？为什么推荐在vibe coding的时候用它？
+	https://www.bilibili.com/video/BV1rZAfzbEwQ/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2481894-96shx.1773657248974.87&vd_source=81c0bcf82f694c6597aa4f896576b4ba
+
+--------------------------
+
+工具：
+工具集链接：
+https://ai-bot.cn/
+核心工具/操作外壳
+	大厂求职通行证: 大厂必须会Vibe coding（Cursor， CodeX，<最重要Cloude Code，从终端CMD terminal层面掌握，  不要只是cursor trae(字节),能独立开发上线，能做安卓苹果app上线>)
+	
+	
+	Open claw
+	
+	LM studio 可以下载大模型到本地运行，可以知道本地适合跑什么级别的大模型
+
+	Lovable
+	open- lovable
+
+	Replit
+
+	Stitch
+
+	Open claw 原版龙虾
+	https://www.bilibili.com/video/BV1oNPCzkEqg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=81c0bcf82f694c6597aa4f896576b4ba
+	
+	open code
+
+	Claude code（核心）
+
+	figma？？
+
+	MiniMax
+
+	文字向量化
+
+	AIGC创作者，被替换成本非常低
+
+	midernery
+
+	codex
+	
+	Transformaer
+
+	Hugging Face（抱抱脸）是一个AI开源社区和平台，简单说就是AI界的GitHub。
+
+	play wright
+
+	GLM
+
+	用友大模型
+
+
+----------------------
+操作：
+	微信小程序
+	网页
+	自写小Agent
