@@ -233,9 +233,11 @@ Ilya  卡神 还有谁？
 
 
 figma是什么
-
-dify
-harness
+Langchain LangGraph 是什么
+Harness又是什么
+dify又是什么
+扣子 又是什么
+这些概念什么关系？ 
 
 扣子扣子
 
@@ -243,3 +245,5 @@ harness
 [花5万买Mac Studio跑AI值不值？用了一年终于能回答了。附模型评论和硬件对比，部署指南_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1zmSoBnEYM/?spm_id_from=333.1007.tianma.2-2-5.click&vd_source=81c0bcf82f694c6597aa4f896576b4ba)
 
 
+多agent
+coze n8n dify
